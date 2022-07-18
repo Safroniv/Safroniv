@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Safroniv
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate!
+- 💞️ I’m looking to collaborate in C#!
 - 📫 How to reach me safroniv@mail.ru
 
 <!---
