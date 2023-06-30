@@ -36,7 +36,7 @@
   noSQL, 
   MS SQL, 
   MySQL, 
-  GitHub), 
+  GitHub, 
   HTML/CSS,
   JavaScript.
 
