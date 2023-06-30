@@ -35,16 +35,9 @@
   HTML/CSS,
   JavaScript.
 
-### When I'm not programming you can find me:
-:weight_lifting:  <code>*Exercising in the gym*</code>  
-:open_book:  <code>*Reading educational books and articles*</code>  
-:film_strip:  <code>*Watching interesting movies and series*</code>  
-:walking_man: <code>*Having enjoy for a walk*</code>  
-
 ### :email:	Connect with me:
 + [Telegram](https://t.me/Safroniv)
 + Email: safroniv@mail.ru
-+ LinkedIn (The link will appear in the future)
 
 _Thank you for your attention_
 ___
