@@ -1,5 +1,5 @@
 <h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>
-<h3 align="center">I'm Jon, C# Developer form Moscow(RU)</h3>
+<h3 align="center">I'm Ivan, C# Developer form Moscow(RU)</h3>
 <h3 align="center"></h3>
 
 - :trophy: I have over **1.5 years experience in Developing**
@@ -51,3 +51,5 @@ ___
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Safroniv&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="Safroniv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Safroniv&theme=great-gatsby&show_icons=true&locale=en" alt="Safroniv" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safroniv&theme=city_lights)
