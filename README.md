@@ -4,7 +4,7 @@
 
 - :trophy: I have over **1.5 years experience in Developing**
 
-- :hammer_and_wrench: I worked on different projects: **BeckEnd for Web & Desktop**
+- :hammer_and_wrench: I worked on different projects: **BackEnd for Web & Desktop**
 
 - 📄 Know about my experience - you can **request me for CV** by email/telegram
 
