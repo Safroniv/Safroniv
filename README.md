@@ -17,38 +17,35 @@
 
 <h3 align="left">My tech stack:
 
-C# 
-.NET 5.0+, 
-.NET Framework 4.7+, 
-ASP.NET Core Web API OPEN API (Swagger), 
-ASP.NET Core Web App, 
-ASP.NET Core MVC, 
-xUnit, 
-Moq, 
-WPF, 
-WinForms, 
-EF, 
-JWT, 
-AutoMapper, 
-Quarz, 
-gRPC, 
-REST API, 
-noSQL, 
-MS SQL, 
-MySQL, 
-GitHub), 
-HTML/CSS,
-JavaScript.
+  C# 
+  .NET 5.0+, 
+  .NET Framework 4.7+, 
+  ASP.NET Core Web API OPEN API (Swagger), 
+  ASP.NET Core Web App, 
+  ASP.NET Core MVC, 
+  xUnit, 
+  Moq, 
+  WPF, 
+  WinForms, 
+  EF, 
+  JWT, 
+  AutoMapper, 
+  Quarz, 
+  gRPC, 
+  REST API, 
+  noSQL, 
+  MS SQL, 
+  MySQL, 
+  GitHub), 
+  HTML/CSS,
+  JavaScript.
 
-### :open_umbrella: When I'm not testing or programming you can find me:
+### When I'm not testing or programming you can find me:
 
-:weight_lifting:  <code><strong>*Exercising in the gym*</strong></code>
-
-:open_book:  <code><strong>*Reading educational books and articles*</strong></code>
-
-:film_strip:  <code><strong>*Watching interesting movies and series*</strong></code>
-
-:walking_man: <code><strong>*Having enjoy for a walk*</strong></code>
+:weight_lifting:  <code>*Exercising in the gym*</code>
+:open_book:  <code>*Reading educational books and articles*</code>
+:film_strip:  <code>*Watching interesting movies and series*</code>
+:walking_man: <code>*Having enjoy for a walk*</code>
 
 ### :email:	Connect with me:
 + [Telegram](https://t.me/Safroniv)
