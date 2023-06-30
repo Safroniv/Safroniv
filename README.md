@@ -17,7 +17,38 @@
 
 <h3 align="left">My tech stack:
 
-Интересуюсь и занимаюсь разработкой на C# (Стек: .NET 5.0+, .NET Framework 4.7+, ASP.NET Core Web API, OPEN API (Swagger), ASP.NET Core Web App, ASP.NET Core MVC, xUnit, Moq, WPF, WinForms, EF, JWT, AutoMapper, Quarz, gRPC, REST API, noSQL, MS SQL, MySQL, GitHub). В свободное время изучаю новые фреймворки. Имеются базовые навыки работы с языком разметки HTML/CSS и языком JavaScript.
+C# 
+.NET 5.0+, 
+.NET Framework 4.7+, 
+ASP.NET Core Web API OPEN API (Swagger), 
+ASP.NET Core Web App, 
+ASP.NET Core MVC, 
+xUnit, 
+Moq, 
+WPF, 
+WinForms, 
+EF, 
+JWT, 
+AutoMapper, 
+Quarz, 
+gRPC, 
+REST API, 
+noSQL, 
+MS SQL, 
+MySQL, 
+GitHub), 
+HTML/CSS,
+JavaScript.
+
+### :open_umbrella: When I'm not testing or programming you can find me:
+
+:weight_lifting:  <code><strong>*Exercising in the gym*</strong></code>
+
+:open_book:  <code><strong>*Reading educational books and articles*</strong></code>
+
+:film_strip:  <code><strong>*Watching interesting movies and series*</strong></code>
+
+:walking_man: <code><strong>*Having enjoy for a walk*</strong></code>
 
 ### :email:	Connect with me:
 + [Telegram](https://t.me/Safroniv)
