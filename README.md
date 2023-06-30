@@ -15,7 +15,7 @@
 :rocket: Development APIs
 
 
-<h3 align="left">My tech stack:
+<h3 align="left">My tech stack:</h3>
 
   C# 
   .NET 5.0+, 
@@ -42,10 +42,10 @@
 
 ### When I'm not testing or programming you can find me:
 
-:weight_lifting:  <code>*Exercising in the gym*</code>
-:open_book:  <code>*Reading educational books and articles*</code>
-:film_strip:  <code>*Watching interesting movies and series*</code>
-:walking_man: <code>*Having enjoy for a walk*</code>
+:weight_lifting:  <code>*Exercising in the gym*</code>  
+:open_book:  <code>*Reading educational books and articles*</code>  
+:film_strip:  <code>*Watching interesting movies and series*</code>  
+:walking_man: <code>*Having enjoy for a walk*</code>  
 
 ### :email:	Connect with me:
 + [Telegram](https://t.me/Safroniv)
