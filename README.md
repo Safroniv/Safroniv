@@ -40,7 +40,7 @@
   HTML/CSS,
   JavaScript.
 
-### When I'm not testing or programming you can find me:
+### When I'm not programming you can find me:
 
 :weight_lifting:  <code>*Exercising in the gym*</code>  
 :open_book:  <code>*Reading educational books and articles*</code>  
