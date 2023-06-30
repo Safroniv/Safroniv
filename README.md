@@ -3,7 +3,7 @@
 <h3 align="center"></h3>
 
 <h3 align="left">Languages and tools:</h3>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
           
   .NET 5.0+, 
   .NET Framework 4.7+, 
