@@ -2,8 +2,9 @@
 <h3 align="center">I'm Ivan, C# Developer from Moscow(RU)</h3>
 <h3 align="center"></h3>
 
-<h3 align="left">My tech stack:</h3>
-  C# 
+<h3 align="left">Languages and tools:</h3>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
   .NET 5.0+, 
   .NET Framework 4.7+, 
   ASP.NET Core Web API OPEN API (Swagger), 
