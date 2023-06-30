@@ -52,4 +52,4 @@ ___
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Safroniv&theme=great-gatsby&show_icons=true&locale=en" alt="Safroniv" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safroniv&theme=city_lights)
+<p>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Safroniv&theme=city_lights)</p>
