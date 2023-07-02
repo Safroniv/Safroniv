@@ -15,7 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
 
 <h3 align="left">My tech stack:</h3>
-.NET 5.0+, .NET Framework 4.7+, ASP.NET Core Web API, OPEN API (Swagger), ASP.NET Core Web App, ASP.NET Core MVC, xUnit, Moq, WPF, WinForms, EF, JWT, AutoMapper, Quarz, gRPC, REST API, noSQL, MS SQL, MySQL, GitHub
+C#, NET 5.0+, .NET Framework 4.7+, ASP.NET Core Web API, OPEN API (Swagger), ASP.NET Core Web App, ASP.NET Core MVC, xUnit, Moq, WPF, WinForms, EF, JWT, AutoMapper, Quarz, gRPC, REST API, noSQL, MS SQL, MySQL, GitHub
 
 ### :email:	Connect with me:
 + [Telegram](https://t.me/Safroniv)
