@@ -26,4 +26,4 @@ ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Safroniv&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Safroniv&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Safroniv&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Safroniv&theme=city_lights&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Safroniv&theme=city_lights&utcOffset=3)
