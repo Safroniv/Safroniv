@@ -16,7 +16,7 @@
 
 <h3 align="left">My tech stack:</h3>
 C#, NET 5.0+, .NET Framework 4.7+, ASP.NET Core Web API, OPEN API (Swagger), ASP.NET Core Web App, ASP.NET Core MVC, 
-xUnit, Moq, WPF, WinForms, EF, JWT, AutoMapper, Quarz, Hangfire, gRPC, REST API, noSQL, MS SQL, MySQL, GitHub.
+xUnit, Moq, WPF, WinForms, EF, JWT, AutoMapper, Quarz, Hangfire, gRPC, REST API, noSQL, MS SQL, MySQL, GitHub. 
 
 ### :email:	Connect with me:
 + [Telegram](https://t.me/Safroniv)
