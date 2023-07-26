@@ -1,5 +1,5 @@
 <h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>
-<h3 align="center">I'm Ivan, C# Developer from Moscow(RU)</h3>
+<h3 align="center">I'm Jon, C# Developer from Moscow(RU)</h3>
 <h3 align="center"></h3>
 
 <h3 align="left">Languages and tools:</h3>
